@@ -7,3 +7,10 @@ Leverage pythons HTTPServer module to have a very limited implementation of a pi
 X-Forwarded-For: [serverip]:6996/name-of-endpoint/x-forwarded-for
 ```
 This way, in the output file (if you use conistent formatting, you can infer where teh pingback came from
+
+
+# Useage
+
+```
+python3 ScuffedBCPY.py output.txt
+```
